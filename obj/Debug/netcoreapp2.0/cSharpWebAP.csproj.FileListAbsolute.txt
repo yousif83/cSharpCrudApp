@@ -1,0 +1,10 @@
+/Users/yousifaltimimie/cSharpWebAP/bin/Debug/netcoreapp2.0/cSharpWebAP.deps.json
+/Users/yousifaltimimie/cSharpWebAP/bin/Debug/netcoreapp2.0/cSharpWebAP.runtimeconfig.json
+/Users/yousifaltimimie/cSharpWebAP/bin/Debug/netcoreapp2.0/cSharpWebAP.runtimeconfig.dev.json
+/Users/yousifaltimimie/cSharpWebAP/bin/Debug/netcoreapp2.0/cSharpWebAP.dll
+/Users/yousifaltimimie/cSharpWebAP/bin/Debug/netcoreapp2.0/cSharpWebAP.pdb
+/Users/yousifaltimimie/cSharpWebAP/obj/Debug/netcoreapp2.0/cSharpWebAP.csproj.CoreCompileInputs.cache
+/Users/yousifaltimimie/cSharpWebAP/obj/Debug/netcoreapp2.0/cSharpWebAP.AssemblyInfoInputs.cache
+/Users/yousifaltimimie/cSharpWebAP/obj/Debug/netcoreapp2.0/cSharpWebAP.AssemblyInfo.cs
+/Users/yousifaltimimie/cSharpWebAP/obj/Debug/netcoreapp2.0/cSharpWebAP.dll
+/Users/yousifaltimimie/cSharpWebAP/obj/Debug/netcoreapp2.0/cSharpWebAP.pdb
